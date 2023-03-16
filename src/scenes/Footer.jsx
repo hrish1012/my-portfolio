@@ -10,7 +10,7 @@ const Footer = () => {
             Hrishita Barkhade
           </p>
           <p className="font-playfair text-md text-yellow">
-            ©2022 Hrishita. All Rights Reserved.
+            ©2023 Hrishita. All Rights Reserved.
           </p>
         </div>
       </div>
